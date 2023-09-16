@@ -23,3 +23,4 @@
 
 4. Create Dashboard
 
+![Amazon Prime Dashboards](https://github.com/GowthamMurugan07/AmazonPrimeDashboardUsingTableau/assets/132330998/41e056ed-1cdd-432f-95e1-7aa95a8d93db)
